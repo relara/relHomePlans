@@ -1,4 +1,10 @@
 <template>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate a illo, quaerat alias distinctio perferendis quia incidunt molestias placeat ipsa commodi repellendus blanditiis iusto assumenda reiciendis illum recusandae quibusdam ipsum.
-</p>
+<h1>Photo Gallery</h1>
+  <img src="../assets/bghome1.jpg" alt="Hello BG"> 
+  <img src="../assets/bghome2.jpg" alt="Hello BG"> 
+    <img src="../assets/bghome3(a).jpg" alt="Hello BG"> 
+    <img src="../assets/bghome3(b).jpg" alt="Hello BG"> 
+    <img src="../assets/bghome3(c).jpg" alt="Hello BG"> 
+    <img src="../assets/bghome4(a).jpg" alt="Hello BG">
+    <img src="../assets/bghome4(b).jpg" alt="Hello BG">
 </template>
