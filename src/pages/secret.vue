@@ -24,7 +24,7 @@
             <img class="h-64" src="../assets/bgseven.png" alt="Hello BG">
         </div>
         <div class="p-4 bg-white rounded-lg shadow-2xl">
-            <img class="h-64" src="../assets/bgeight.jpg" alt="Hello BG">
+            <img class="h-64" src="../assets/bgeight.png" alt="Hello BG">
         </div>
     </ul>
 </div>  
